@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div class="container">
-      A simple web app crafted with 💛 by <a href="https://twitter.com/bearwhocode">Jirattikarn</a>
+      An app inspired from <a href="http://a5.gg">http://a5.gg</a> crafted with Vue.js and 💛 by <a href="https://twitter.com/bearwhocode">Jirattikarn</a>
     </div>
   </footer>
 </template>
